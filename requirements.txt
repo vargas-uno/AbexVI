@@ -1,0 +1,16 @@
+# Bibliotecas principais para o projeto de previsão de aprovação
+
+# Para o backend e a API
+Flask==3.0.3
+joblib==1.4.2
+
+# Para manipulação de dados e o modelo de ML
+pandas==2.2.2
+scikit-learn==1.5.0
+numpy==1.26.4
+
+# Para o frontend interativo
+streamlit==1.36.0
+requests==2.32.3
+plotly==5.22.0
+
